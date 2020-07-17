@@ -8,7 +8,7 @@
 
 #### 🌱 I’m currently learning pretty much everything humanly possible in Android.
 
-#### 📫 You can reach me in the following:
+#### 📫 You can reach out to me in:
    - Mobile: +918056189497
    - Email: prasansrini29@gmail.com
    - Telegram: https://telegram.me/prasansrini29
