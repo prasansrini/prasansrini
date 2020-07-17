@@ -12,6 +12,8 @@
    - Mobile: +918056189497
    - Email: prasansrini29@gmail.com
    - Telegram: https://telegram.me/prasansrini29
+   - Linkedin: https://www.linkedin.com/in/prasanna-srinivasan2905/
+   - Visual guide: https://sourcerer.io/prasan29
    
    
 Profile views:
