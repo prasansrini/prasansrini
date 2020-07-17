@@ -12,6 +12,8 @@
    - Mobile: +918056189497
    - Email: prasansrini29@gmail.com
    - Telegram: https://telegram.me/prasansrini29
+   
+Profile views: ![Visitor Count](https://profile-counter.glitch.me/prasan29/count.svg)
 
 <!--
 **prasan29/prasan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
