@@ -1,4 +1,7 @@
 ## Hello there 👋
+
+![Banner](https://github.com/prasansrini/prasansrini/blob/master/android-banner.png)
+
 ### I am Prasanna Srinivasan.
 #### An Android architect.
 I wish I could teleport into Android and live there forever. 🤔
