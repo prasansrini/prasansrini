@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-![Banner](https://github.com/prasansrini/prasansrini/blob/master/android-banner.png)
+![Banner](https://github.com/prasansrini/prasansrini/blob/master/android-banner-logo.png)
 
 ### I am Prasanna Srinivasan.
 #### An Android architect.
