@@ -3,7 +3,7 @@
 ![Banner](https://github.com/prasansrini/prasansrini/blob/master/android-banner-logo.png)
 
 ### I am Prasanna Srinivasan.
-#### An Android architect.
+#### An Advanced Android Engineer.
 I wish I could teleport into Android and live there forever. 🤔
 
 Skills: Android, Java, Kotlin, JavaScript, Python, C++.
