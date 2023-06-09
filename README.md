@@ -17,6 +17,6 @@ Skills: Android, Java, Kotlin, JavaScript, Python, C++.
 
 ⚡ Fun fact: I'm not a robot.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' target="_blank" height='40'>](https://github.com/prasansrini)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/prasan29)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prasanna-srinivasan2905/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' target="_blank" height='40'>](https://github.com/prasansrini)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/prasan29)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prasanna-srinivasan/)
 
 ![Profile views](https://gpvc.arturio.dev/prasan29)
