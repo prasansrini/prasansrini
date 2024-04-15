@@ -3,9 +3,9 @@
 ![Banner](https://github.com/prasansrini/prasansrini/blob/master/android-banner-logo.png)
 
 ### I am Prasanna Srinivasan.
-#### Android Platform Developer.
+#### Java Engineer.
 
-Skills: Android, Java, Kotlin, JavaScript, Python, C++.
+Skills: Java, Android, Spring-boot, Kotlin, JavaScript, Python, C++.
 
 🔭 I’m currently working on Android framework, IPCs and much more.
 
