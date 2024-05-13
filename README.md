@@ -3,15 +3,15 @@
 ![Banner](https://github.com/prasansrini/prasansrini/blob/master/android-banner-logo.png)
 
 ### I am Prasanna Srinivasan.
-#### Senior Java Engineer.
+#### Java/Kotlin Developer.
 
-Skills: Java, Android, Spring-boot, Kotlin, JavaScript, Python, C++.
+Skills: Java, Kotlin, Android, Spring-boot, Ktor, Jetpack Compose, MySQL.
 
 🔭 I’m currently working on Android framework, IPCs and much more.
 
 🌱 I’m currently still learning Android.
 
-👯 I’m looking to collaborate on Android internals and System services.
+👯 I’m looking to collaborate on Android framework or backend frameworks like Ktor, Spring boot, etc.
 
 💬 Ask me about Android, MVVM, Data Binding, Room DB, System application, System services and TvSettings(AOSP).
 
